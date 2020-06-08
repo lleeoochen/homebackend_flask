@@ -5,5 +5,11 @@
 - Gateway Interface: WSGI
 - Proxy Interface: Nginx
 
-### Start Server
+### Setup Server (Local)
+`./setup`
+
+### Start Server (Local)
+'./run'
+
+### Start Server (Remote)
 - `sudo systemctl start/restart homebackend`
