@@ -1,5 +1,5 @@
 #!/bin/bash
 
 source venv/bin/activate
-flask run -h 0.0.0.0 -p 8000
+pip install "$1"
 deactivate
