@@ -6,10 +6,11 @@
 - Proxy Interface: Nginx
 
 ### Setup Server (Local)
-`./setup`
+- `./setup`
 
 ### Start Server (Local)
-'./run'
+- `./start`
+- Server will listen on localhost:8000
 
 ### Start Server (Remote)
 - `sudo systemctl start/restart homebackend`

@@ -1,2 +1,1 @@
-sudo ./venv/bin/uwsgi --socket 0.0.0.0:8080 --protocol=http -w wsgi:app
-
+flask run -h 0.0.0.0 -p 8000
